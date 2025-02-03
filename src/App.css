@@ -1,0 +1,66 @@
+
+.light, .dark {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center; 
+ width: 100%;
+  text-align: center;
+}
+
+
+.light {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+
+.dark {
+  background-color: #121212;
+  color: #E0E0E0;
+}
+
+
+.aboutme, .projects, .contact {
+
+  width: 90%; 
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center; 
+}
+
+.dark-mode-toggle {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  background: #BB86FC;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  transition: 0.3s;
+}
+
+.dark-mode-toggle:hover {
+  background: #8C3EFF;
+}
+
+
+  .project {
+    scrollbar-width: thin;
+    overflow-y: auto; 
+    max-height: 300px; 
+    
+    border: 1px solid rgb(255, 255, 255);
+    padding: 15px;
+    border-radius: 6px;
+    margin: 10px 0;
+    transition: transform 0.2s ease-in-out;
+    text-align: center;
+  }
+
+.project:hover {
+  transform: scale(1.02);
+}
