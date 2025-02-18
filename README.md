@@ -24,7 +24,7 @@ Welcome to my portfolio! This project is a personal showcase of my journey as a 
 ![Fun GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZhYWpuMGU1NWxqMjZnZnZmNjdoaTR0aDRtYzdjNnAyYmo2aDlocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eyYOgsru2CucPXyfpM/giphy.gif)
 
 
-Check out the live demo at: [https://dannyporfolio.netlify.app/]
+Check out the live demo at: https://dannyporfolio.netlify.app/
 
 ## Installation
 
