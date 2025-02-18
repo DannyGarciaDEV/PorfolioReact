@@ -24,7 +24,7 @@ Welcome to my portfolio! This project is a personal showcase of my journey as a 
 ![Fun GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZhYWpuMGU1NWxqMjZnZnZmNjdoaTR0aDRtYzdjNnAyYmo2aDlocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eyYOgsru2CucPXyfpM/giphy.gif)
 
 
-Check out the live demo at: [Portfolio Link]
+Check out the live demo at: [https://dannyporfolio.netlify.app/]
 
 ## Installation
 
@@ -35,8 +35,7 @@ To run this project locally:
    git clone https://github.com/DannyGarciaDEV/PorfolioReact
    npm install
 ``
-
-### 2️⃣ **Start the Development Server**  
+2. Run the app
 ```bash
 npm run dev
 ```
