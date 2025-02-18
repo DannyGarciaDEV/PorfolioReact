@@ -3,7 +3,7 @@ export default function AboutMe() {
       <div>
         <div className="aboutme">
           <h1>Hola! Welcome to Danny's Portfolio!</h1>
-          <img className="dannytheman" src="./src/assets/headshot.png"></img>
+          <img className="dannytheman" src="./headshot.png"></img>
           <p>
    I’m a full-stack developer trained at Resilient Coders, with hands-on experience in HTML, CSS, JavaScript, React.js, MongoDB, Node.js, and Express. I’ve worked on multiple projects that focused on clean code, responsive design, documentation, and problem-solving. My adaptability and ability to learn quickly helped me succeed, particularly during tough economic times.
 
