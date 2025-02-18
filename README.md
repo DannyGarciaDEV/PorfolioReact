@@ -34,7 +34,9 @@ To run this project locally:
    ```bash
    git clone https://github.com/DannyGarciaDEV/PorfolioReact
    npm install
-``
+
+   ```
+
 2. Run the app
 ```bash
 npm run dev
