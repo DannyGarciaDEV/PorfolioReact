@@ -3,16 +3,19 @@ export default function AboutMe() {
       <div>
         <div className="aboutme">
           <h1>Hola! Welcome to Danny's Portfolio!</h1>
+          <img className="dannytheman" src="/src/assets/headshot.png"></img>
           <p>
-            As a software engineer, I am passionate about building projects that make a difference in my community.
-            One of my key projects, Citizenship Readiness, is a full-stack application designed to help 
-            individuals prepare for the U.S. civics test in both English and Spanish, supporting those who may face language barriers.
-          </p>
-          <p>
-            Over the past year, I have expanded my expertise by earning certifications in Fundamentals of Open Source IT and Cloud Computing
-            from The Linux Foundation, as well as LinkedIn certifications in Cybersecurity Foundations, JavaScript, and IT Security.
-            Additionally, I completed the University of Helsinki’s Full-Stack Open curriculum to further strengthen my technical skills.
-          </p>
+   I’m a full-stack developer trained at Resilient Coders, with hands-on experience in HTML, CSS, JavaScript, React.js, MongoDB, Node.js, and Express. I’ve worked on multiple projects that focused on clean code, responsive design, documentation, and problem-solving. My adaptability and ability to learn quickly helped me succeed, particularly during tough economic times.
+
+
+   I’ve earned certifications in Open Source IT, Cloud Computing, Cybersecurity Foundations, and IT Security. I also completed the University of Helsinki’s full-stack open curriculum, focusing on React, Jest, and Cypress for testing.
+
+
+   I bring a mix of technical expertise and leadership experience, having worked on a geothermal energy project at National Grid, where I developed an AI-driven chatbot. I received the "Find a Better Way" Award for my innovative contributions. I also worked with Transform Power Systems to build a website for Solar Forms.
+
+
+   As a member of the Boston leadership team at Out in Tech, I organize events and workshops to foster an inclusive environment for LGBTQ+ tech professionals. <br></br>
+</p>
         </div>
       </div>
     );

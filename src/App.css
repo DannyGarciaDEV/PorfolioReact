@@ -47,8 +47,8 @@
   background: #8C3EFF;
 }
 
-
-  .project {
+.project img
+  .project{
     scrollbar-width: thin;
     overflow-y: auto; 
     max-height: 300px; 
@@ -60,7 +60,29 @@
     transition: transform 0.2s ease-in-out;
     text-align: center;
   }
+  .project img {
+    width:50%;
+    height:50%;
+  }
 
 .project:hover {
   transform: scale(1.02);
+}
+
+.dannytheman {
+  width: 100%;
+  max-width: 300px; 
+  height: auto; 
+  border-radius: 10px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  border: 2px solid #ddd; 
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  margin: 20px auto;
+  display: block;
+}
+
+
+.dannytheman:hover {
+  transform: scale(1.05); 
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
 }
